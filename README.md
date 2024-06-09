@@ -30,7 +30,7 @@ EXELocker is a free, open-source application that allows users to password-prote
 
 Throughout my programming journey, I've realized the importance of making software more maintainable through SOLID principles and design patterns. I've also delved into the world of machine learning and deep learning, completing courses and incorporating time series data into my projects.
 
-I'm particularly interested in recommendation engines and have read books on how Spotify, Facebook, and LinkedIn use graph-based algorithms for recommendations. I'm currently seeking opportunities to apply my knowledge of reinforcement learning in my work.
+I'm particularly interested in recommendation engines and have read books on how Spotify, Facebook, and LinkedIn use graph-based algorithms for recommendations. I'm currently seeking opportunities to apply my knowledge of machine learning in my work.
 
 ## 🌟 Continuous Learning
 
