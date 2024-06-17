@@ -4,8 +4,8 @@ I'm a passionate programmer with a love for learning and exploring new technolog
 
 ## 🔧 Skills & Tools
 
-- Programming Languages: PHP, JavaScript, Python, Java
-- Web Development: WordPress, Laravel, React, Node.js
+- Programming Languages: PHP, JavaScript, Ruby, Python, Java
+- Web Development: WordPress, Laravel, React, Node.js, Rails
 - Databases: MongoDB, MySQL
 - DevOps: Docker, AWS
 - Machine Learning & Deep Learning
