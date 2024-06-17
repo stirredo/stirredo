@@ -6,10 +6,10 @@ I'm a passionate programmer with a love for learning and exploring new technolog
 
 - Programming Languages: PHP, JavaScript, Ruby, Python, Java
 - Web Development: WordPress, Laravel, React, Node.js, Rails
-- Databases: MongoDB, MySQL
-- DevOps: Docker, AWS
+- Databases: MongoDB, MySQL, PostgreSQL
+- DevOps: Docker, AWS, Terraform
 - Machine Learning & Deep Learning
-- Recommendation Engines & Graph-Based Algorithms
+- Recommendation Engines 
 - Data-Centric Frameworks: Spark, Kafka, Flink 
 
 ## 🌱 Projects
